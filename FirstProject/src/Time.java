@@ -12,7 +12,7 @@ public class Time {
 
         System.out.println(secondsSinceMidnight + " seconds since midnight.");
         System.out.println((secondsSinceMidnight / totalSecondsInDay)*100 + " percent of the day has elapsed.");
-        
+
         int remainingHours = 23 - hour;
         int remainingMinutes = 60 - minute;
         int remainingSeconds = 60 - second;

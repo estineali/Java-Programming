@@ -32,7 +32,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Time">
+  <component name="RunManager" selected="Application.Chapter3">
+    <configuration name="Chapter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3" />
+      <module name="TutorialOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date" />
       <module name="TutorialOne" />
@@ -56,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter3" />
         <item itemvalue="Application.Time" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.HelloWorld" />
@@ -80,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
